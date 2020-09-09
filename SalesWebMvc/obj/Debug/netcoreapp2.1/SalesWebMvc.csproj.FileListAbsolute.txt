@@ -33,7 +33,6 @@ D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMv
 D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
-D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
 D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
 D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
 D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
@@ -41,3 +40,4 @@ D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\View
 D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
 D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
