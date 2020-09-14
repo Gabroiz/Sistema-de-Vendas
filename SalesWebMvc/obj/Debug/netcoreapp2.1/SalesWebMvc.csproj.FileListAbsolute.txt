@@ -43,3 +43,5 @@ D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\View
 D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
 D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
 D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
