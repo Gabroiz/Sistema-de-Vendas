@@ -47,3 +47,5 @@ D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMv
 D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
 D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
+D:\Curso de C#\Fontes\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
